@@ -1,0 +1,70 @@
+/* ul{
+    list-style-type: circle;
+}
+
+ol{
+    list-style-type: lower-roman;
+} */
+/* ul{
+    list-style-image: url(icons8-right-94\ \(1\).png);
+}
+li{
+    margin: 10px 0px 0px 0px; 
+ } */
+ /* ul { 
+    width: 150px;
+} 
+ li {
+     margin: 10px;
+    }
+  ul.illuminations{ 
+     list-style-position: outside;
+    }
+   ul.season {
+     list-style-position: inside;
+    } */
+    /* ul {
+         list-style: inside circle; width: 300px;} 
+    li {
+         margin: 10px 0px 0px 0px;} */
+/* table{
+    width: 1500;
+    padding: 10px;
+    text-transform: capitalize;
+    letter-spacing:1px ;
+    border-top: 1px solid red;
+    border-bottom: 1px solid green;
+} */
+/* table, td, th{
+    text-align: left;
+} */
+/* table{
+    background-color: aqua;
+} */
+/* table:hover{
+
+    background-color: bisque;
+    cursor: pointer;
+
+} */
+/* td{
+    background-color: aqua;
+     border: 1px solid #0088dd;
+      padding: 15px;
+     
+    }
+
+      table{
+         empty-cells:show;
+         border-spacing: 2px 15px;
+         border-collapse: collapse;
+
+        } */
+input:hover{
+    font-size: 25px;
+    color: aqua;
+    background-color: blue;
+    border: 2px solid red;
+    border-radius: 25px ;
+    hover:pointer
+}          
